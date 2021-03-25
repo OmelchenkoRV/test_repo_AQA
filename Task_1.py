@@ -24,3 +24,4 @@ print(e.split(' '))
 d1 = d1.lstrip()
 d1 = d1.rstrip()
 print(d1)
+
