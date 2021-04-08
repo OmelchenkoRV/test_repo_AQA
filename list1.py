@@ -69,7 +69,7 @@ def test(got, expected):
         prefix = ' OK '
     else:
         prefix = '  X '
-    print('%s got: %s expected: %s' % (prefix, repr(got), repr(expected)))
+    print(f'{prefix} got: {repr(got)} expected:{repr(expected)}')
 
 
 # Calls the above functions with interesting inputs.
