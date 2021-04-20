@@ -1,6 +1,6 @@
 import requests
 import smtplib
-import email
+
 smtp_object = smtplib.SMTP('smtp.gmail.com', 587)
 URL = "https://httpbin.org/image/svg"
 print("Downloading image from" + " " + URL)
