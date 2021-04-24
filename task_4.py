@@ -1,18 +1,24 @@
 import smtplib
-from email.mime.text import MIMEText
+from email.message import EmailMessage
+Sender_email = "omelchenkorv@gmail.com"
+Reciever_email = "el.piankova@gmail.com"
+Password = input('Enter your email account password: ')
+newMessage = EmailMessage()
+newMessage['Subject'] = "Homework6"
+newMessage['From'] = Sender_email
+newMessage['To'] = Reciever_email
+newMessage.set_content("I did it!")
 
 
-def send_email(self, to_whom, message):
-    you = to_whom
-    login = 'al6938@ukr.net'
-    passw = 'L1e6GTuj7aJgCY2g'
-    url = 'smtp.ukr.net'
-    msg = MIMEText(message)
-    msg['Subject'] = 'currensy exchange '
-    msg['From'] = login
-    msg['To'] = 'omelchenkorv@gmail.com'
+server = smtplib.SMTP('smtp.gmail.com: 587')
 
-    server = smtplib.SMTP_SSL(url, 465)
-    server.login(login, passw)
-    server.sendmail(login, you, msg.as_string())
-    return server.close()
+server.starttls()
+
+
+server.login(Sender_email, Password)
+
+
+server.sendmail(Sender_email, Reciever_email, newMessage.as_string())
+
+server.quit()
+print(f"Successfully sent email to {Reciever_email}")
