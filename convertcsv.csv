@@ -1,0 +1,101 @@
+seq,name/first,name/last,department,dollar
+1,Alejandro,Rice,Public relations,7119.97
+2,Rosalie,Gibbs,Accounting,749.22
+3,Adam,Hanson,Administration,8270.96
+4,Rosa,Caldwell,Warehouse,7859.56
+5,Phillip,Cruz,Public relations,1215.57
+6,Amy,Weber,Research & Development,5124.38
+7,Adele,Newman,After-sales service,4336.91
+8,Pearl,Duncan,Research & Development,252.87
+9,Raymond,Steele,Accounting,5162.46
+10,Marc,Hubbard,IT,7607.39
+11,Virginia,Flores,Warehouse,1368.98
+12,Glen,Klein,Administration,2373.84
+13,Abbie,Murphy,Human resources,8832.69
+14,Ruby,Diaz,After-sales service,7233.07
+15,Allie,McCoy,Accounting,7309.15
+16,Carl,Colon,Research & Development,8810.13
+17,Harvey,McLaughlin,Public relations,881.09
+18,Lillie,George,Human resources,3536.90
+19,Martha,Allison,After-sales service,9962.68
+20,Katherine,Collins,Research & Development,3847.45
+21,Sally,Dawson,Administration,2941.04
+22,Katharine,Perez,Accounting,8654.95
+23,Derrick,Rice,Warehouse,6766.40
+24,Lulu,Ford,Advertising,2129.54
+25,Lou,Neal,Public relations,8693.36
+26,Lydia,Pope,Public relations,954.84
+27,Dorothy,Parker,Human resources,2633.50
+28,Ina,Reese,Warehouse,1329.63
+29,Sallie,Ellis,Administration,4914.60
+30,Nell,Carson,After-sales service,6442.86
+31,Eva,Yates,Accounting,1873.21
+32,Sam,Hampton,Dispatch service,4884.50
+33,Ellen,Hale,Public relations,9143.34
+34,Brandon,Glover,Advertising,9518.75
+35,Hannah,Fletcher,Warehouse,4006.50
+36,Rhoda,Jacobs,IT,8484.44
+37,Jeff,Evans,Dispatch service,1547.04
+38,Bessie,Torres,Purchasing,648.20
+39,Gary,Medina,Administration,8607.85
+40,Flora,Ray,Purchasing,9636.87
+41,Nancy,Hale,After-sales service,8052.28
+42,Bradley,Martinez,Dispatch service,5426.91
+43,Dora,Williams,Dispatch service,5889.25
+44,Ethan,Garza,Purchasing,771.17
+45,Lucile,Matthews,Advertising,5861.41
+46,Georgia,Bryant,Legal,4314.72
+47,Mina,Burke,Orders,3321.81
+48,Marvin,Hopkins,Customer service,4313.90
+49,Olive,Hodges,Finance,8796.15
+50,Eunice,Lawrence,Logistics,9525.59
+51,Mabelle,Valdez,Administration,2737.93
+52,Henrietta,Lee,Orders,8999.04
+53,Leila,Lawrence,Purchasing,8306.34
+54,Chad,Hale,Customer service,8542.89
+55,Effie,Mendez,Public relations,785.02
+56,Lawrence,Price,Administration,7419.27
+57,Rosie,Estrada,Orders,3213.66
+58,Sara,Brown,Public relations,826.00
+59,John,Guerrero,Finance,1798.28
+60,Garrett,Wright,Customer service,798.97
+61,Virgie,Norman,Public relations,6237.48
+62,Lydia,Tucker,Administration,3996.42
+63,Rodney,Christensen,IT,6744.90
+64,Cody,Barker,Finance,2597.99
+65,Lucinda,McCoy,Customer service,839.50
+66,Patrick,Reese,Logistics,5142.77
+67,Helen,Allison,Advertising,2923.22
+68,Celia,Rivera,Orders,8405.03
+69,Verna,Patterson,IT,5161.05
+70,Sallie,Moran,Customer service,3515.78
+71,Evelyn,Rodriguez,Finance,3321.14
+72,Peter,Rodgers,Customer service,5758.39
+73,Elnora,Higgins,Orders,984.38
+74,Adam,White,Advertising,1746.88
+75,Mollie,Moss,Public relations,9312.72
+76,Wesley,Barber,IT,9805.17
+77,Ruby,Price,Marketing,9576.62
+78,Roy,Joseph,Finance,6567.41
+79,Angel,Salazar,Customer service,7174.61
+80,Myrtle,Matthews,Advertising,5016.24
+81,Victor,Ramos,Human resources,5960.92
+82,Caleb,Munoz,Logistics,4108.81
+83,Scott,McKinney,Finance,1519.94
+84,Cameron,Guzman,Customer service,1389.96
+85,Donald,Ball,Marketing,1864.28
+86,Alma,McDonald,Administration,77.27
+87,Travis,Horton,Legal,9247.63
+88,Harvey,Lamb,Finance,3216.65
+89,Samuel,Perez,Advertising,1948.88
+90,Jason,Rogers,Legal,9652.27
+91,Wayne,Farmer,Logistics,6199.01
+92,Hettie,Woods,Finance,6059.06
+93,Ola,Gomez,Administration,6948.35
+94,Marie,Henderson,Marketing,9875.74
+95,Callie,Castillo,Customer service,1991.94
+96,Nancy,Massey,Administration,1561.42
+97,Eric,Bishop,Finance,4288.64
+98,Earl,Olson,Marketing,2659.01
+99,Leila,Haynes,Dispatch service,5356.22
+100,Phoebe,Graves,Customer service,1156.56
